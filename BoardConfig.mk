@@ -161,7 +161,7 @@ $(shell rm -rf $(LOCAL_PATH)/packages/apps/FMRadio)
 BOARD_SEPOLICY_DIRS += $(LOCAL_PATH)/sepolicy
 
 # Sepolicy hack for old kernel, mt6582 version is 29.
-POLICYVERS := 26
+POLICYVERS := 29
 
 # Seccomp filter
 BOARD_SECCOMP_POLICY += $(LOCAL_PATH)/seccomp
