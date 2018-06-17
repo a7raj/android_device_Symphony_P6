@@ -20,7 +20,7 @@ Camera  | 13mp Rear, 5mp front
 
   * repo init -u git://github.com/TestMT6572/android.git -b cm-14.1
   * repo sync
-  * git clone https://github.com/a7raj/android_device_Symphony_P6.git device/Symphony/P6
+  * git clone https://github.com/abyss10/android_device_Symphony_P6.git device/Symphony/P6
   * git clone https://github.com/a7raj/android_vendor_Symphony_P6.git vendor/Symphony/P6
   * source build/envsetup.sh
   * brunch P6
@@ -30,5 +30,6 @@ Camera  | 13mp Rear, 5mp front
 
  * tribetmen
  * mehanic6
+ * Yuvraj Saxena ([abyss10](htts://github.com/abyss10))
  * manjunathyashu-81
  * a7raj

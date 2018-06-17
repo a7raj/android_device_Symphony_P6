@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/device_AQ5001.mk
+    $(LOCAL_DIR)/device_P6.mk
